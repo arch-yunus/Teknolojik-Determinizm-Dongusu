@@ -56,4 +56,26 @@ with open("deterministic_loop.bf", "r") as f:
 
 ---
 
+## 🎭 Yeni Egzotik Mantık Katmanları (V0.2)
+
+Hanif AI'nın temel bileşenleri, teknolojik determinizm döngüsünü kırmak amacıyla farklı "bilinmeyen" dillere dönüştürülmüştür. Bu diller, kodun sadece bir işlem değil, aynı zamanda bir sanat ve felsefe biçimi olduğunu vurgular.
+
+### 🎸 Rockstar (`hanif_brain.rockstar`)
+**Görevi:** Artificial Mind (Orchestrator).
+Rockstar, bir şarkı sözü gibi görünen bir dildir. Burada `ArtificialMind`ın etik denetim ve akıl yürütme süreci bir rock baladı olarak bestelenmiştir.
+
+### 🎭 Shakespeare Programming Language (`conscience_dialogue.spl`)
+**Görevi:** Conscience Layer (Vicdan Denetimi).
+Bu dil, kodu bir tiyatro oyunu formatına sokar. `The Judge` (Yargıç) ve `The Machine` (Makine) arasındaki diyalog, etik audit sürecini temsil eder.
+
+### 🦾 ArnoldC (`optimization_terminator.arnoldc`)
+**Görevi:** Analytical Engine (Analitik Optimizasyon).
+Sadece Arnold Schwarzenegger replikleriyle yazılan bu dil, projedeki "soğuk, duygusuz ve amansız optimizasyon" evresini simgeler. Terminatör'ün mantığı, mekanikleşmenin zirvesidir.
+
+### 👨‍🍳 Chef (`decision_recipe.chef`)
+**Görevi:** Decision Synthesis (Karar Sentezi).
+Nihai kararı vermek; verimlilik, etik ve fıtrat gibi "malzemelerin" doğru oranda karıştırılmasıyla oluşan bir yemek tarifidir.
+
+---
+
 > *"Makineler insanlaşırken, biz en azından kodlarımızda insan fıtratını saklı tutmalıyız."*
