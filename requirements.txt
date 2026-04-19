@@ -1,2 +1,2 @@
-# No external dependencies currently required.
-# This project uses Python 3.10+ standard library.
+rich
+# Built-in modules only otherwise

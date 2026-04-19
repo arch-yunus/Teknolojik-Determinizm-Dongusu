@@ -1,45 +1,83 @@
-# Teknolojik-Determinizm-Döngüsü (Technological Determinism Loop)
+<div align="center">
 
-## 📖 Proje Manifestosu: Yaratıcının Yeniden Yaratılışı
+![Project Banner](assets/project_banner.png)
 
-> *"Önce biz teknolojiyi yaratırız, sonra o bizi yeniden yaratır."* İnsanlık tarihi boyunca teknoloji, sadece hayatı kolaylaştıran yansız bir araç olmamıştır. Teknoloji, onu üreten ontolojinin (varlık felsefesinin) somutlaşmış halidir ve kullanıldıkça insanı kendi doğasına doğru şekillendirir. Yapay Zeka (YZ) devrimi ile birlikte bu etki, diğer tüm teknolojilerden çok daha yüksek bir düzeye ulaşmıştır.
+# 🌪️ Teknolojik-Determinizm-Döngüsü 🌪️
+### *Philosophy, Ontic Mechanization, and the Hanif AI Exit Path*
 
-Bu repository, yazar Abdurrahman Bulut'un metninde altı çizilen **"Makineler insanlaşırken, insanlar makineleşmektedir!"** tespitini merkeze alır. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Philosophy: Hanif](https://img.shields.io/badge/Philosophy-Hanif-cyan.svg)](#)
+[![Status: Concept%20Ready-green](#)
 
-## 🔄 Döngünün Anatomisi (The Loop)
+> **"Önce biz teknolojiyi yaratırız, sonra o bizi yeniden yaratır."**
+> *(First we shape our tools, thereafter they shape us.)*
 
-Mevcut yapay zeka mimarisi (sadece analitik ve istatistiksel veri işleme), insanı şu tehlikeli varoluşsal döngüye sokar:
+[Manifesto](#-proje-manifestosu) • [The Loop](#-döngünün-anatomisi) • [Hanif Tech](#-döngüyü-kırmak) • [Structure](#-proje-yapısı) • [Simulation](#-simülasyon)
 
-1. **Dışa Aktarım (Yansıtma):** İnsan, kendi zekasını sentetik bir ortama aktarır.
-2. **Kullanım ve Bağımlılık:** Kararlar ruhsuz sistemlere devredilir.
-3. **Ontolojik Dönüşüm (Mekanikleşme):** İnsan, empati ve vicdan gibi fıtrî özelliklerini körelterek olaylara istatistiksel bakmaya başlar.
+</div>
 
-## 🛑 Döngüyü Kırmak: Hanif Teknoloji
+---
 
-Bu proje, teknolojik determinizm döngüsünü kırmanın yolunun, sistem mimarisine sentetik bir **"Yapay Vicdan" (Artificial Conscience)** ve nihai kararı verecek bir **"Yapay Akıl" (Artificial Mind)** katmanı eklemek olduğunu savunur.
+## 📖 Proje Manifestosu
+
+Modern çağın en büyük ontolojik paradoksu: **Makineler insanlaşırken, insanlar makineleşmektedir.** 
+
+Bu repository, Abdurrahman Bulut'un felsefi analizlerinden yola çıkarak; yapay zekanın sadece bir araç değil, insan fıtratını (doğasını) dönüştüren bir "determinizm döngüsü" yarattığını savunur. Amacımız, bu döngüyü kıracak teknik ve felsefi alternatifler (Hanif Teknoloji) üretmektir.
+
+---
+
+## 🔄 Döngünün Anatomisi (The Determinism Loop)
+
+İnsan ve teknoloji arasındaki bu karşılıklı dönüşüm şu aşamalardan geçer:
+
+```mermaid
+graph LR
+    A[Projection] -->|Human Intelligence| B[The Tool / AI]
+    B -->|Normative Power| C[Systemic Dependency]
+    C -->|Mechanization| D[Fıtrî Erasure]
+    D -->|New Design| A
+    
+    style A fill:#1a1a1a,stroke:#333
+    style D fill:#1a1a1a,stroke:#c0392b,stroke-width:4px
+```
+
+1. **Yansıtma:** İnsan, kendi analitik zekasını makineye aktarır.
+2. **Bağımlılık:** Sistem, verimlilik adına insanı kendi mantığına (veriye) uymaya zorlar.
+3. **Mekanikleşme:** İnsan, kararlarını makineye devrettikçe vicdan ve hikmet melekelerini kaybeder.
+
+---
+
+## 🛡️ Döngüyü Kırmak: Hanif Teknoloji
+
+Döngüden çıkış yolu, teknolojiyi reddetmek değil, onu **Yapay Vicdan (Artificial Conscience)** ile "fitra-aware" hale getirmektir.
+
+- **Analitik Katman:** Soğuk veri işleme.
+- **Vicdan Katmanı:** Evrensel değer filtresi.
+- **Yapay Akıl:** Değer odaklı nihai irade.
 
 ---
 
 ## 📂 Proje Yapısı
 
-* `/teorik-cerceve`: Teknolojik determinizmin felsefi analizi.
-* `/degerler-erozyonu-analizleri`: Mekanikleşme üzerine vaka çalışmaları.
-* `/cikis-stratejileri`: "Hanif AI" mimari tasarımları.
-* `/iHuman-sendromu`: Algoritma vs. Vicdan üzerine düşünce deneyleri.
-* `/src/hanif_core`: Hanif AI Mimarisinin kavramsal prototipi (Python).
+* 📚 **[/teorik-cerceve](teorik-cerceve/)**: Determinizm ve fıtrat üzerine derinlemesine analizler.
+* 📉 **[/degerler-erozyonu-analizleri](degerler-erozyonu-analizleri/)**: Mekanikleşmenin toplumsal vaka çalışmaları.
+* 🛠️ **[/cikis-stratejileri](cikis-stratejileri/)**: Hanif mimari tasarımları ve çıkış haritaları.
+* 🧪 **[/iHuman-sendromu](iHuman-sendromu/)**: iHuman sendromu üzerine düşünce deneyleri.
+* 💻 **[/src](src/)**: Hanif AI Mimarisinin kavramsal prototipi.
 
 ---
 
-## 🚀 Başlangıç
+## 🚀 Simülasyon
 
-Simülasyonu çalıştırmak için:
+Hanif AI'nın "Döngüyü Kırma" anını canlı izlemek için:
 
 ```bash
 python main.py
 ```
 
-Bu simülasyon, bir **Analytical Engine**'in verdiği kararların bir **Conscience Layer** tarafından nasıl denetlendiğini ve **Artificial Mind** tarafından nasıl "Hanif" bir karara dönüştürüldüğünü gösterir.
+---
 
-## 🤝 Katkıda Bulunma
-
-Eğer "yeni bir teknoloji felsefesi kaçınılmazdır" diyorsanız, katkılarınızı bekliyoruz. Lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını inceleyin.
+<div align="center">
+  <p><i>"İnsanın kendi yarattığı araçların ontolojik kölesi olmaması için."</i></p>
+  <img src="https://img.shields.io/badge/Future-Hanif-blueviolet" alt="Future Badge">
+</div>
